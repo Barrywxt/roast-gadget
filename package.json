@@ -1,0 +1,7 @@
+{
+  "name": "roast-gadget",
+  "version": "1.0.0",
+  "description": "One-Line Roast: The Gadget You Use Every Day - the smartwatch stand-up",
+  "license": "MIT",
+  "type": "module"
+}
